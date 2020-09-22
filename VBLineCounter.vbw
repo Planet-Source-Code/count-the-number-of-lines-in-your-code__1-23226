@@ -1,0 +1,9 @@
+frmMain = 36, 38, 693, 510, , 18, 19, 675, 491, C
+modVBLineCount = 198, 209, 855, 681, 
+frmAbout = 90, 95, 747, 567, , 72, 76, 729, 548, C
+FileSystem = 0, 0, 0, 0, C
+Hyperlink = 0, 0, 0, 0, C
+modFolderBrowse = 0, 0, 0, 0, C
+modSubDirs = 0, 0, 0, 0, C
+OpenSaveDialog = 0, 0, 0, 0, C
+clsRegistry = 0, 0, 0, 0, C
